@@ -75,14 +75,3 @@ console.log(arr4)
 let  arr5 = [100, 23 ,2 ,4, 5, 23,54,33,2,4,5,999]  //
 
 
-//set -- which contain only unique value
-
-let result11 = [...new Set(arr5)]
-console.log(result11)
-
-//Find the second largest element
-//Find the frequence of each element in an array   Javascript
-
-
-
-
