@@ -63,6 +63,10 @@
         console.log(this.accountBalance - withdrawalAmout)
     }
 
+    viewVehicalDetails(){
+        console.log('I want to see the changes')
+    }
+
 }
 
 
