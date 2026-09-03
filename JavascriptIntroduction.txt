@@ -1,0 +1,14 @@
+//it was used for creating web pages
+-- cliet -- server architecture
+Dynamically typed progrmmming language --JavaScript  , interpreted 
+Statically type programming language  --TypeScript   , Compiled 
+
+1. Single threaded programming laguage/ synchronous programming --printer (asynch) 
+10 task : only one task at a time 
+3. Compiled and interpreter programming language 
+Hello1.ts --- compiled --- Hello1.js --- interpreted --- mc
+
+... runtime programming language
+... compile 
+
+...Node Js : open source runtime evvironment 
