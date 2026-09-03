@@ -34,14 +34,7 @@ for(let i=0; i<= str1.length; i++){
   strRev  =  str1.charAt(i) + strRev    //         aJ
 }
 
-console.log("Reverse of string : "+ strRev)
 
-strRev = ''
-
-for(let i = str2.length; i>= 0 ; i--){
-      strRev  =  strRev + str2.charAt(i)     //         aJ
-
-}
 
 console.log("Reverse of string : "+ strRev)
 
@@ -68,3 +61,13 @@ str4 = str4.concat('classes')
 console.log(str4)
 
 //== equals
+
+
+console.log("Reverse of string : "+ strRev)
+
+strRev = ''
+
+for(let i = str2.length; i>= 0 ; i--){
+      strRev  =  strRev + str2.charAt(i)     //         aJ
+
+}
