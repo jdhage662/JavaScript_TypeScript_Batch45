@@ -21,5 +21,3 @@ class ATMImplementation implements ATMMachine, Student{
         return 3000
     }
 }
-
-const obj = new ATMImplementation();
