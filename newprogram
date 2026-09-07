@@ -1,0 +1,5 @@
+let myname: string = "Sainath Galge"
+console.log(myname);
+
+let contactNumber: number = +919876543210;
+console.log(contactNumber);
