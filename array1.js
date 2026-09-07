@@ -1,4 +1,4 @@
-const numbers = [10, 20, 30, 40, 50, 60];
+const numbers = ['Apple', 'Banana', 'Cherry', 'Date', 'Elderberry', 'Fig', 'Grape'];
 
 // slice(start, end) returns elements from start up to, but not including, end.
 const selectedNumbers = numbers.slice(1, 4);
